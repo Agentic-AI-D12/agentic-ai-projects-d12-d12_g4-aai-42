@@ -1,0 +1,35 @@
+# Medical Guidelines for Common Diseases
+
+## Kidney Stones (Renal Calculi)
+- **Definition**: A small, hard deposit that forms in the kidneys and is often painful when passed.
+- **Key Treatment Steps**:
+  1. Increase fluid intake to at least 2-3 liters per day to flush the stones.
+  2. Use pain relievers like ibuprofen or naproxen for discomfort.
+  3. Medical therapy (Alpha-blockers) to help the stone pass more easily.
+  4. Surgical options (Lithotripsy or Ureteroscopy) if the stone is too large.
+- **Estimated Costs in India**:
+  - Conservative treatment: ₹5,000 - ₹15,000
+  - Laser Lithotripsy: ₹60,000 - ₹1,20,000
+  - Percutaneous Nephrolithotomy (PCNL): ₹80,000 - ₹1,50,000
+
+## Diabetes (Type 2)
+- **Definition**: A chronic condition that affects the way the body processes blood sugar (glucose).
+- **Key Treatment Steps**:
+  1. Regular blood sugar monitoring.
+  2. Healthy eating and weight management.
+  3. Regular exercise (30 mins a day).
+  4. Oral medications (Metformin) or Insulin therapy if needed.
+- **Estimated Costs in India**:
+  - Monthly medication & monitoring: ₹2,000 - ₹5,000
+  - Annual comprehensive checkup: ₹10,000 - ₹20,000
+
+## Hypertension (High Blood Pressure)
+- **Definition**: A condition in which the force of the blood against the artery walls is too high.
+- **Key Treatment Steps**:
+  1. Reduce salt intake to less than 5g per day.
+  2. DASH diet (Dietary Approaches to Stop Hypertension).
+  3. Regular physical activity.
+  4. Antihypertensive medications as prescribed by a doctor.
+- **Estimated Costs in India**:
+  - Monthly medication: ₹500 - ₹2,000
+  - Regular GP consultation: ₹500 - ₹1,000 per visit.
